@@ -22,7 +22,8 @@
     "cloudstructs": "0.6.12"
   },
   "engines": {
-    "node": "=v14.20.1"
+    "node": "=v14.20.1",
+    "npm": "=8.19.3"
   },
   "engineStrict": true,
   "overrides": {
