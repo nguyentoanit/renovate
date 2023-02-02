@@ -22,7 +22,7 @@
     "cloudstructs": "0.6.12"
   },
   "engines": {
-    "node": "=v14.20.1",
+    "node": "=v18.14.0",
     "npm": "=8.19.3"
   },
   "engineStrict": true,
