@@ -23,7 +23,7 @@
   },
   "engines": {
     "node": "=v14.20.1",
-    "npm": "=8.19.3"
+    "npm": "=9.4.2"
   },
   "engineStrict": true,
   "overrides": {
